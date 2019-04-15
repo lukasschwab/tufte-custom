@@ -4,3 +4,4 @@
 - [ ] Default date: `\today`
 - [x] Default title: `{group}: {date}`
 - [ ] Standalone pandoc usability without `pandoc-starter`
+- [ ] Add the new tex sources to .zshrc
